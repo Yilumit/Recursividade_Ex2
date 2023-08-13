@@ -1,4 +1,5 @@
 package view;
+/*  Aplicação que retorna o menor valor contido em um vetor */
 
 import controller.MenorValorController;
 
